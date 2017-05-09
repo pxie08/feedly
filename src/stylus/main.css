@@ -1,0 +1,18 @@
+body {
+  color: #333;
+  background: #cde;
+}
+.app {
+  background-color: #077ef4;
+}
+.header {
+  background-color: #ce676f;
+  text-align: center;
+}
+.report-section {
+  background-color: #79d274;
+}
+.report-button {
+  margin: 0;
+  text-align: center;
+}
